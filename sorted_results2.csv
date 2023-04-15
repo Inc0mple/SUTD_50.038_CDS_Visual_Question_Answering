@@ -1,0 +1,17 @@
+,Model,Parameter count,Eval loss,Eval wups,Eval acc,Eval f1,Eval runtime
+15,cnn_lstm_baseline,1.66e+08,2.75,0.35,0.316,0.009,307
+14,bert_base_beit_x2_hidden_yes_no_reduced,2.1e+08,1.828,0.523,0.492,0.143,193
+6,bert_base_g_vit_x2_hidden_yes_no_reduced,2.1e+08,1.765,0.529,0.497,0.165,181
+1,roberta_ms_beit_x2_hidden_yes_no_reduced,2.25e+08,1.773,0.522,0.49,0.154,192
+5,roberta_g_vit_x2_hidden_yes_no_reduced,2.25e+08,1.722,0.53,0.498,0.173,182
+13,bert_base_g_vit_x2_hidden_yes_no_untouched,2.1e+08,1.957,0.509,0.478,0.126,183
+8,bert_base_beit_x2_hidden_yes_no_untouched,2.1e+08,2.062,0.495,0.462,0.084,196
+10,roberta_ms_beit_x2_hidden_yes_no_untouched,2.25e+08,2.268,0.414,0.378,0.032,211
+11,roberta_g_vit_x2_hidden_yes_no_untouched,2.25e+08,1.883,0.517,0.485,0.144,185
+9,bert_base_g_vit_orig_classifier_yes_no_untouched,1.98e+08,2.144,0.479,0.446,0.048,185
+0,roberta_base_g_vit_orig_classifier_yes_no_untouched,2.13e+08,2.085,0.484,0.45,0.053,207
+2,bert_base_g_vit_hidden_x1_yes_no_untouched,2.03e+08,1.865,0.514,0.482,0.126,183
+12,roberta_base_g_vit_hidden_x1_yes_no_untouched,2.18e+08,1.805,0.521,0.489,0.13,186
+4,roberta_base_g_vit_hidden_x1_RELU_noDrop_yes_no_untouched,2.18e+08,1.685,0.542,0.511,0.208,182
+3,roberta_base_g_vit_hidden_x1_GELU_NoDrop_yes_no_untouched,2.18e+08,1.644,0.549,0.517,0.196,182
+7,roberta_base_g_vit_hidden_x1_GELU_noDrop_yes_no_reduced,2.18e+08,1.629,0.546,0.515,0.198,185
