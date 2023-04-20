@@ -10,3 +10,4 @@ vqav2-train
 wandb
 WholeVQAv2_Default_Params
 OldStuff
+vilt_model.bin
