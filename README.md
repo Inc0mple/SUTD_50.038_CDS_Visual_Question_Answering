@@ -8,7 +8,7 @@
 
 ![GUI](ImagesForDemo/gui_screenshot.png)
 
-**Dataset Preprocessing**: We performed our preprocessing of the original [VQAv2 dataset](https://www.kaggle.com/datasets/rajatkumar794/visual-based-question-answering) using our [kaggle preprocessing notebook](https://www.kaggle.com/code/christylau/vqav2-preprocessing).
+**Dataset Preprocessing**: We performed our preprocessing of the original [VQAv2 dataset](https://www.kaggle.com/datasets/rajatkumar794/visual-based-question-answering) using our [kaggle preprocessing notebook](https://www.kaggle.com/code/christylau/vqav2-preprocessing). The same code can also be found in **`Preprocessing_Notebook.ipynb`**.
  
 **Dataset**: Our preprocessed VQAv2 dataset can be [found on kaggle](https://www.kaggle.com/datasets/christylau/vqav2-annotations-preprocessed?select=VQAv2_answer_mapping.json).
 
@@ -24,5 +24,6 @@
 
 4. **`EvalAll_Notebook.ipynb`** contains the code necessary to evaluate all models and save the results as a `.csv` file and print the results in LaTeX.
 
-5. **`Train_EvalViLT_Notebook.ipynb`** contains the code necessary to train and evaluate a ViLT model and save its weights. It also contains the code necessary to add ViLT's results to the previous evaluated results table and print them results inLaTeX.
+5. **`Train_EvalViLT_Notebook.ipynb`** contains the code necessary to train and evaluate a ViLT model and save its weights. It also contains the code necessary to add ViLT's results to the previous evaluated results table and print them results in LaTeX.
 
+6. **`Preprocessing_Notebook.ipynb`** contains the code necessary to preprocess the original VQAv2 dataset.
