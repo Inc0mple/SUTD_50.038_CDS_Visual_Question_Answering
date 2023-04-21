@@ -4,7 +4,11 @@
 
 ## Group Name: Hadoop: Distributed Suffering (GPA-Reduce)
 
-### By Bryan Tan (Chen Zhengyu), Christy Lau Jin Yun, Visshal Natarajan and Lek Jie Wei
+### By Bryan Tan (Chen Zhengyu), Christy Lau Jin Yun and Lek Jie Wei
+
+![GUI](ImagesForDemo/gui_screenshot.png)
+
+**Dataset Preprocessing**: We performed our preprocessing of the original [VQAv2 dataset](https://www.kaggle.com/datasets/rajatkumar794/visual-based-question-answering) using our [kaggle preprocessing notebook](https://www.kaggle.com/code/christylau/vqav2-preprocessing).
  
 **Dataset**: Our preprocessed VQAv2 dataset can be [found on kaggle](https://www.kaggle.com/datasets/christylau/vqav2-annotations-preprocessed?select=VQAv2_answer_mapping.json).
 
@@ -17,9 +21,8 @@
 2. **`Train_CNN_LSTM_Baseline_Notebook.ipynb`** contains the code necessary to train a baseline CNN + LSTM model and save its weights in the designated checkpoint folder.
 
 3. **`GUI_Demo.ipynb`** contains the code necessary to run a GUI for visualising the predictions of our best fusion model.
-   
-4. **`Train_EvalViLT_Notebook.ipynb`** contains the code necessary to train and evaluated a ViLT model and save its weights.
 
+4. **`EvalAll_Notebook.ipynb`** contains the code necessary to evaluate all models and save the results as a `.csv` file and print the results in LaTeX.
 
-5. **`EvalAll_Notebook.ipynb`** contains the code necessary to evaluate all models and save the results as a `.csv` file.
+5. **`Train_EvalViLT_Notebook.ipynb`** contains the code necessary to train and evaluate a ViLT model and save its weights. It also contains the code necessary to add ViLT's results to the previous evaluated results table and print them results inLaTeX.
 
