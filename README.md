@@ -2,7 +2,7 @@
 <!-- 
 ## [Report](AIReport.pdf) | [Slides](https://docs.google.com/presentation/d/1rFt7QGFVdLSPshTbRth7EsdzxvsI5NSsFlLf5Yv9fZA/edit?usp=sharing) | [GUI](https://dr-lazarus-ai-streamlit-frontend-main-wnbdru.streamlit.app/) + [GUI Repo](https://github.com/fauzxan/ai_streamlit_frontend) -->
 
-## Group Name: Hadoop: Distributed Suffering (GPA-Reduce)
+## Group Name: Hadoop Distributed Suffering (GPA-Reduce)
 
 ### By Bryan Tan (Chen Zhengyu), Christy Lau Jin Yun and Lek Jie Wei
 
