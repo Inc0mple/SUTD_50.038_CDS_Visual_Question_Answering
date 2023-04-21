@@ -1,6 +1,6 @@
 # SUTD 50.038 Computational Data Science | Visual Question Answering Project
 <!-- 
-## [Report](AIReport.pdf) | [Slides](https://docs.google.com/presentation/d/1rFt7QGFVdLSPshTbRth7EsdzxvsI5NSsFlLf5Yv9fZA/edit?usp=sharing) | [GUI](https://dr-lazarus-ai-streamlit-frontend-main-wnbdru.streamlit.app/) + [GUI Repo](https://github.com/fauzxan/ai_streamlit_frontend) -->
+## [Report](CDS_Project_Report.pdf) | [Slides](https://docs.google.com/presentation/d/1Elnq1g6hoS4z_BVguqzmkOq789-CBYEdz_hjMW-x-f4/edit#slide=id.p) 
 
 ## Group Name: Hadoop Distributed Suffering (GPA-Reduce)
 
